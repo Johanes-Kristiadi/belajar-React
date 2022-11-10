@@ -1,0 +1,10 @@
+Belajar React
+
+Imperative : penjelasan terhadap setiap bagian tahap
+
+Declarative : penjelasan terhadap hasilnya langsung
+
+React bersifat deklarative.
+=========
+arrow function mirip fungsi dalam bahasa pemrogmanan
+(a,b)=>{return a-b}
